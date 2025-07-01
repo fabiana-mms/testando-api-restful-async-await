@@ -1,0 +1,11 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 20px;
+}
+
+.user {
+   border: 1px solid #ccc;
+   padding: 10px;
+   margin-bottom: 10px;
+   border-radius: 5px;
+}
